@@ -1,1 +1,3 @@
 # snake.io
+
+# THIS ONLY WORKS FOR __LINUX__ SYSTEMS
